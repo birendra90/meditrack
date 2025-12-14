@@ -650,31 +650,11 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👏 Credits
-
-### Educational Resources
-- **Java Official Documentation**: Oracle Java SE Documentation
-- **Design Patterns**: Gang of Four Design Patterns
-- **Clean Code**: Robert C. Martin's Clean Code principles
-- **Effective Java**: Joshua Bloch's best practices
-
-### Development Team
-- **Architecture & Core Implementation**: MediTrack Development Team
-- **Documentation & Testing**: Technical Writing Team
-- **Code Review & Quality Assurance**: Senior Development Team
-
-### Acknowledgments
-- Thanks to all contributors who helped improve the codebase
-- Special recognition for comprehensive testing and documentation efforts
-- Appreciation for the detailed code reviews and architectural guidance
-
----
-
 ## 📞 Support
 
 For questions, issues, or contributions:
 
-- **📧 Email**: meditrack-support@airtribe.com
+- **📧 Email**: meditrack-support@gmail.com
 - **🐛 Issues**: Create an issue on the project repository  
 - **💬 Discussions**: Use GitHub Discussions for general questions
 - **📖 Wiki**: Check the project wiki for detailed guides
