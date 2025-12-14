@@ -1,0 +1,61 @@
+# Compiled Java class files
+*.class
+javadoc/
+
+# packaged Java archive files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# Runtime files
+*.log
+*.tmp
+*.out
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Database files
+*.db
+*.sql
+*.sqlite
+
+# local configuration files
+config/local.properties
+.env
+.env.local
+.env.*.local
+*.local
+.settings.json
+
+# Backup files
+*.bak
+*.backup  
+
+# Cache files
+.cache/
+__pycache__/
+
+# Temporary files
+tmp/
+temp/
+*.temp
+*.~tmp

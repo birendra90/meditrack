@@ -1,0 +1,4 @@
+ID,FirstName,LastName,DateOfBirth,Gender,Email,Phone,Address,BloodGroup,PatientType,InsuranceProvider,HasInsurance,RegistrationDate,VisitCount,GuardianName,GuardianPhone
+P00002,Bob,Smith,22/07/1985,Male,bob.smith@email.com,+91-9876543221,"456 Oak Ave, City",,OUTPATIENT,,false,14/12/2025,0,,
+P00003,Carol,Davis,10/12/1955,Female,carol.davis@email.com,+91-9876543222,"789 Pine Rd, City",,INPATIENT,Senior Care Insurance,true,14/12/2025,0,,
+P00001,Alice,Johnson,15/03/1990,Female,alice.johnson@email.com,+91-9876543220,"123 Main St, City",,OUTPATIENT,Health Plus Insurance,true,14/12/2025,0,,

@@ -1,0 +1,1 @@
+ID,PatientID,DoctorID,DateTime,Duration,Status,ReasonForVisit,Notes,Symptoms,Diagnosis,Prescription,ConsultationFee,IsEmergency,AppointmentType,RescheduleCount,CancellationReason
